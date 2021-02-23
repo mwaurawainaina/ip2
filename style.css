@@ -7,3 +7,19 @@ h1 {
         font-family: fantasy;
         margin-top: 0%;
         }
+.bgimage {
+            background-image: url(images/images.jpeg);
+            background-size: cover;
+            background-position: center center;
+            overflow-x: hidden;
+            height: 70%;
+                }  
+header {
+            height: 0%;
+            padding-bottom: 0;
+            margin-left: 0%;
+            margin-right: 0%;
+            width: 200px;
+            background-color: black;
+        }  
+          
