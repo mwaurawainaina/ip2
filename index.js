@@ -9,4 +9,6 @@ if(day <=0){
 };
 if(day > 31){
   console.log('date is invalid')
-}
+};
+if (month <=0){console.log('month is invalid')};
+if (month >12){console.log('month is invalid')};
